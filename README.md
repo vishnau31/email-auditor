@@ -136,15 +136,3 @@ class CustomRule(BaseRule):
 ## API Documentation
 
 Visit `http://localhost:8000/docs` for interactive API documentation.
-
-## License
-
-MIT License - see LICENSE file for details.
-
-## Author
-
-Vishesh Nautiyal
-
----
-
-For questions or contributions, please open an issue or submit a pull request.
