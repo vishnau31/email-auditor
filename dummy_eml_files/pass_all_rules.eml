@@ -1,0 +1,32 @@
+From: sender@example.com
+To: recipient@example.com
+Subject: Meeting Tomorrow
+Date: Mon, 19 Jun 2023 10:00:00 +0000
+Message-ID: <123456@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Hello there!
+
+I hope this email finds you well. I wanted to follow up on our discussion from last week regarding the upcoming project deadline. 
+
+As we discussed, we need to ensure that all deliverables are completed by the end of this month. This includes the final documentation, code review, and testing phases. 
+
+Please let me know if you have any questions or if there's anything I can do to help move things forward. I'm available for a call tomorrow afternoon if you'd like to discuss this further.
+
+Looking forward to hearing from you.
+
+Best regards,
+John
+
+--boundary123
+Content-Type: image/png; name="diagram.png"
+Content-Disposition: attachment; filename="diagram.png"
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==
+
+--boundary123-- 
